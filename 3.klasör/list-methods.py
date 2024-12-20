@@ -31,7 +31,7 @@ print(numbers)
 
 #pop() methodu listenin elemanını siler.
 numbers.pop() #bu sekildeyken sondakini sildi
-numbers.pop(0) #sıfırıncı indeksi de siler.
+numbers.pop(0) #sıfırıncı indeksi  siler.
 print(numbers)
 
 #   remove  methodu ile de silmek istediğimiz numarayı/elemanı veririz o silinir.
